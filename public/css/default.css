@@ -242,7 +242,7 @@ blockquote cite a:visited { color: #8B9798; border: none }
 }
 .pull-quote:before {
 	content: "\201C";
-	top:  33px;
+	top:  3px;
 	left: 0;
 }
 .pull-quote:after {

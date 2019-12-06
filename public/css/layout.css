@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #C62121; }
 
 
 /* ------------------------------------------------------------------ */
@@ -689,8 +689,7 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
-   line-height: 48px;
+   font-size: 18px;
    color: #fff
 }
 #testimonials blockquote cite {
@@ -977,7 +976,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #C62121;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
