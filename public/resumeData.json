@@ -2,7 +2,7 @@
   "main": {
     "name": "Johnatan Botero",
     "occupation": "Mobile Developer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "Senior mobile engineer with proven experience in the development of innovative products and interactive projects, focusing on applications for Android and iOS devices.",
     "image": "profilepic.jpg",
     "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -15,17 +15,12 @@
       "zip": "521100"
     },
     "website": "http://www.jbotero.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1gw7lHJqhT8J1s8UTxVVbNW4ID1hIdgdt/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
         "url": "http://facebook.com/jboteros",
         "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "http://twitter.com/jboteros",
-        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
@@ -41,6 +36,11 @@
         "name": "github",
         "url": "http://github.com/jboteros",
         "className": "fa fa-github"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/jboteros",
+        "className": "fa fa-twitter"
       },
       {
         "name": "skype",
